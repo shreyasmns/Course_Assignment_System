@@ -1,17 +1,6 @@
-
-CS542 Design Patterns
-Fall 2016
-Assignment 1
-
 README FILE
 
-Due Date: Tuesday, August 30, 2016.
-Submission Date: Tuesday, August 30, 2016.
-Author: Shreyas Mahanthappa Nagaraj
-e-mail: smn1@binghamton.edu
-
-PURPOSE: To implement course assignment system for students. 
-PERCENT COMPLETE: I believe I have completed 100% of this project.
+PURPOSE: To implement course assignment system for students.
 
 FILES:
 
